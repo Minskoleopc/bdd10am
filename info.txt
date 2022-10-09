@@ -1,0 +1,14 @@
+npm init 
+npm install cypress@9.7
+npm install npm install --save-dev cypress-cucumber-preprocessor
+npx cypress open
+
+// makes changes as per document
+// cypress/plugins/index.js
+// cypress.json
+// package.json
+
+// Install Cucumber gherking extention
+// BDD - Behavioural driven development
+// feature file ------> test scenario
+// testscenario ------> step definition
